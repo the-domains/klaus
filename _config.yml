@@ -1,0 +1,28 @@
+name: Klaus Salonen
+favicon: null
+layout_spectrum: 0.10536973783746362
+typography_spectrum: 0.5518460506573319
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6940113799646497
+  lightness: 0.6203204388730228
+  saturation: 0.21958795608952641
+  rhythmicContrast: 0.44820428686216474
+purpose: []
